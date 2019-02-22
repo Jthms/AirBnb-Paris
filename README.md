@@ -1,4 +1,4 @@
-assurance-habitation
+airbnb Paris
 ==============================
 
 Probability of resiliation of a home-insurance
