@@ -1,7 +1,7 @@
-airbnb Paris
+Airbnb Paris
 ==============================
 
-Probability of resiliation of a home-insurance
+Methods of price prediction of Airbnb listings
 
 Project Organization
 ------------
